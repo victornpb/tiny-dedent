@@ -1,0 +1,32 @@
+{
+  "name": "tiny-dedent",
+  "version": "1.0.0",
+  "description": "A Tiny module for stripping indentation from multi-line strings",
+  "main": "dedent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victornpb/tiny-dedent.git"
+  },
+  "keywords": [
+    "dedent",
+    "deindent",
+    "outdent",
+    "indentation",
+    "multi-line string",
+    "multiline strings",
+    "template literals",
+    "template strings",
+    "trim",
+    "strip",
+    "es6"
+  ],
+  "author": "victornpb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victornpb/tiny-dedent/issues"
+  },
+  "homepage": "https://github.com/victornpb/tiny-dedent#readme"
+}
