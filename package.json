@@ -1,6 +1,6 @@
 {
   "name": "tiny-dedent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tiny module for stripping indentation from multi-line strings",
   "main": "dedent.cjs.js",
   "module": "dedent.esm.js",
