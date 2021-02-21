@@ -2,7 +2,9 @@
   "name": "tiny-dedent",
   "version": "1.0.0",
   "description": "A Tiny module for stripping indentation from multi-line strings",
-  "main": "dedent.js",
+  "main": "dedent.cjs.js",
+  "module": "dedent.esm.js",
+  "sideEffects": false,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
