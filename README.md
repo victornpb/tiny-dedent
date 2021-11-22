@@ -15,15 +15,19 @@ A Tiny module for stripping indentation from multi-line strings.
 
 ## Installation
 
-[Yarn](https://github.com/yarnpkg/yarn)
+### [Yarn](https://github.com/yarnpkg/yarn)
 
     yarn add tiny-dedent
 
-NPM
+### NPM
 
     npm install tiny-dedent
 
+### CDN
+
 If you don't use a package manager, you can [access `tiny-dedent` via unpkg (CDN)](https://unpkg.com/tiny-dedent/), download the source, or point your package manager to the url.
+
+- https://unpkg.com/tiny-dedent/
 
 ## Usage
 
