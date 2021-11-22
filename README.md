@@ -1,7 +1,20 @@
 # tiny-dedent
 
 A Tiny module for stripping indentation from multi-line strings.  
-150 bytes (min & gzipped)
+- It's tiny! **150 bytes** (gzipped)
+- No dependencies!
+- It's Fast!
+
+## Installation
+
+#### NPM
+```sh
+npm install tiny-dedent
+```
+#### Yarn
+```sh
+yarn add tiny-dedent
+```
 
 ## Usage
 
@@ -47,15 +60,6 @@ That's all.
 Wait! I lied. Dedent can also be used as a function.
 ```
 
-## Installation
-
-```sh
-npm install tiny-dedent
-
-or
-
-yarn add tiny-dedent
-```
 
 ## Motivation
 
