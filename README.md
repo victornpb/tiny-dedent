@@ -2,9 +2,6 @@
 
 ![Node](https://img.shields.io/node/v/tiny-dedent.svg?style=flat-square)
 [![NPM](https://img.shields.io/npm/v/tiny-dedent.svg?style=flat-square)](https://www.npmjs.com/package/tiny-dedent)
-[![Travis](https://img.shields.io/travis/victornpb/tiny-dedent/master.svg?style=flat-square)](https://travis-ci.org/victornpb/tiny-dedent)
-[![David](https://img.shields.io/david/victornpb/tiny-dedent.svg?style=flat-square)](https://david-dm.org/victornpb/tiny-dedent)
-[![Coverage Status](https://img.shields.io/coveralls/victornpb/tiny-dedent.svg?style=flat-square)](https://coveralls.io/github/victornpb/tiny-dedent)
 [![NPM](https://img.shields.io/npm/dt/tiny-dedent.svg?style=flat-square)](https://www.npmjs.com/package/tiny-dedent)
 
 A Tiny module for stripping indentation from multi-line strings.
