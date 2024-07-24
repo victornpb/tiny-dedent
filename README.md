@@ -9,7 +9,7 @@
 
 A Tiny module for stripping indentation from multi-line strings.
 
-- It's tiny! **150 bytes** (gzipped)
+- It's tiny! 4 lines of code, **150 bytes** (gzipped)
 - No dependencies!
 - It's Fast!
 
@@ -78,7 +78,7 @@ Wait! I lied. Dedent can also be used as a function.
 
 I've been writting this replace regex over and over at the end of every template literal string, then I found there's a pretty popular package called dedent, which does exactly that. But I didn't feel like adding a dependency to do something that should be a macro, so I wrote this as a simple function.
 
-This library is meant to be kept really really simple. It does not try to handle any edge cases, if you need something something more sophisticated take a look at the [dedent](https://www.npmjs.com/package/dedent) package, it is around ~50 lines.
+This library is meant to be kept really really simple. It does not try to handle any edge cases, if you need something something more sophisticated take a look at the [dedent](https://www.npmjs.com/package/dedent) package, it is around ~50 lines (tiny-dedent is 4).
 
 ## Why not a tagged function?
 
