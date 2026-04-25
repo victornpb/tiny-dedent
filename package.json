@@ -21,6 +21,7 @@
   "unpkg": "dist/dedent.js",
   "globalVar": "S",
   "scripts": {
+    "test": "node test.js",
     "start": "rollup -c -w",
     "dev": "rollup -c -w",
     "build": "rollup -c",
