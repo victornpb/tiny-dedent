@@ -16,6 +16,7 @@
   },
   "homepage": "https://github.com/victornpb/tiny-dedent",
   "author": "victornpb",
+  "type": "module",
   "main": "dist/dedent.cjs.js",
   "module": "dist/dedent.esm.js",
   "unpkg": "dist/dedent.js",
