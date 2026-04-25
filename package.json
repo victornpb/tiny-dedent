@@ -16,11 +16,13 @@
   },
   "homepage": "https://github.com/victornpb/tiny-dedent",
   "author": "victornpb",
+  "type": "module",
   "main": "dist/dedent.cjs.js",
   "module": "dist/dedent.esm.js",
   "unpkg": "dist/dedent.js",
   "globalVar": "S",
   "scripts": {
+    "test": "node test.js",
     "start": "rollup -c -w",
     "dev": "rollup -c -w",
     "build": "rollup -c",
